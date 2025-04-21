@@ -1,0 +1,5 @@
+indicador_id,nome_indicador,descricao,tipo
+1,EPS,Earnings per share,profitability
+2,DividendPerShare,Amount paid to shareholders per share annually,dividends
+3,OperatingMarginTTM,Operating income as a percentage of revenue (TTM),profitability
+4,PEGRatio,Price/earnings to growth ratio; adjusts P/E for expected growth,valuation
